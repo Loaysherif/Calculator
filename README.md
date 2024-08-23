@@ -36,7 +36,7 @@ Welcome to the Android Calculator App! This project showcases a simple yet funct
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/35d780dd-e368-4db7-ac02-0cc1ab1d76a9)
+![image](https://github.com/user-attachments/assets/57795657-85df-42f6-87e4-ce0b12a197f7)
 
 ## Installation
 
